@@ -4,3 +4,4 @@
 * lime 12 NOK
 * salt 2 NOK
 ## Instructions
+* peel the avocados
